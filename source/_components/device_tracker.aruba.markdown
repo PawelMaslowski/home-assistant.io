@@ -18,6 +18,7 @@ This platform allows you to detect presence by looking at connected devices to a
 Supported devices (tested):
 
 - ARUBA AP-105
+- ARUBA IAP-207 ( 2APs, 1 Network, Mesh )
 
 <p class='note warning'>
 This device tracker needs telnet to be enabled on the router.
